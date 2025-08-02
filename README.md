@@ -1,7 +1,7 @@
-# gsheet-internet-monitor
+# Google Sheet Internet Connectivity Monitor
 Monitors internet connectivity via PING, DNS and Web -- sends reports to Google Sheet
 
-# Google Sheets API Setup Guide
+## Google Sheets API Setup Guide
 
 This guide walks you through setting up Google Sheets integration for the Internet Connectivity Monitor, from enabling APIs to configuring service account authentication.
 
